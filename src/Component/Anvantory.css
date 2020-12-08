@@ -1,0 +1,11 @@
+.action {
+  opacity: 1;
+}
+
+.delete-btn {
+  color: #1e87f0;
+}
+
+.delete-btn:hover {
+  text-decoration: underline;
+}
